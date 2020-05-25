@@ -1,2 +1,2 @@
 # HackerRank_Problems
-This repository includes my all hackerrank solutions. 
+This repository includes solutions for  hackerrank problems. 
